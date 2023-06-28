@@ -98,3 +98,4 @@ For some features, for example Grafana dashboards or Kafka setup script, volumeM
 - code cleanup & further development
 
 There is room to develop more advanced codebase into a project, for example to implement Lambda architecture & batch processing for some use cases, or improve Kubernetes deployment configuration. Some code for applications might also be cleaned up and/or optimized (for example for build.sbt).
+
